@@ -1,0 +1,48 @@
+AppData/
+.android/
+.gradle/
+.cache/
+.config/
+.expo/
+.vscode/
+.yarn/
+.ms-ad/
+.pyarmor/
+.redhat/
+.copilot/
+.codex/
+.app-store/
+Documents/
+Downloads/
+Desktop/
+Pictures/
+Music/
+Videos/
+OneDrive/
+Contacts/
+Favorites/
+Links/
+Saved Games/
+Searches/
+3D Objects/
+AndroidStudioProjects/
+Tracing/
+New folder/
+FocusedChatApp/
+LanguageChatApp/
+LanguageLearningApp/
+NavaApp_New/
+UltimateChatApp/
+hello/
+hello wolrd/
+helloworld/
+weather app/
+world/
+backup_*/
+chat_data/
+*.log
+*.pma
+*.py
+test.dy
+MyMobileApp/
+toptip/
